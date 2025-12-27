@@ -35,19 +35,18 @@ Git • Docker • REST APIs • VS Code
 ## 📂 Featured Projects
 
 ### 📌 Database / Backend Projects
-- 🔹 **[PostgreSQL Query Assistant](https://github.com/adityaaman052/PostgreSQL-Query-Assistant)**  
-- 🔹 **[Finance Manager (PHP + MySQL)](https://github.com/adityaaman052/Finance-Manager)**  
-- 🔹 **MongoDB Tools & Utilities** *(coming soon)*  
+- 🔹 **[Query Bridge](https://github.com/adityaaman052/Query-Bridge)**  
+- 🔹 **[(Crime-Kg)(Kerala Police Prototyping Project)](https://github.com/adityaaman052/Crime-Kg)**  
+
 
 ### 💻 Web Development Projects
-- 🔹 **[Next.js Job Portal](https://github.com/adityaaman052/Job-Portal)**  
-- 🔹 **[Crime Knowledge Graph (Neo4j + Node)](https://github.com/adityaaman052/Crime-KG)**  
+- 🔹 **[Finance Manager App](https://github.com/adityaaman052/AdiFinance)**  
+- 🔹 **[(Campus Connector)](https://github.com/adityaaman052/Campus-Connector)**  
 - 🔹 **[AI-Powered Web Scraper](https://github.com/adityaaman052/AI-Scraper)**  
 
-### 🤖 AI / ML Projects
-- 🔹 **[Query-to-SQL AI System](https://github.com/adityaaman052/Query-SQL-AI)**  
-- 🔹 AI Web Automation Scripts  
-- 🔹 Document Processing Tools  
+### 🤖 Java Core Project
+- 🔹 **[Peer to Peer connection using concepts of Java Core ](https://github.com/adityaaman052/Peer-to-Peer-Java-Core-** 
+ 
 
 ---
 
