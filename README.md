@@ -8,40 +8,48 @@ Software Engineer • Full Stack Developer • AI Enthusiast
 Building scalable applications, intelligent automation, and cloud-powered solutions.
 </p>
 
+<p align="center">
+<a href="https://github.com/adityaaman052">
+<img src="https://komarev.com/ghpvc/?username=adityaaman052&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
+<a href="https://github.com/adityaaman052?tab=followers">
+<img src="https://img.shields.io/github/followers/adityaaman052?label=Followers&style=social" />
+</a>
+</p>
+
 ---
 
-# 💼 Professional Experience
+# 💼 Industry Experience
 
-### **Software Engineering Intern | BNY**
+## **Software Engineering Intern | BNY**
 
 **📍 Chennai, India | May 2026 – July 2026**
 
-Completed a two-month Software Engineering Internship at **BNY**, where I contributed to enterprise application development and workflow automation. During the internship, I collaborated in an Agile environment and gained practical experience building business applications and working with modern enterprise technologies.
+Completed a two-month Software Engineering Internship at **BNY**, contributing to enterprise application development and workflow automation. Worked on business applications using Microsoft's Power Platform while collaborating in an Agile development environment.
 
-**Key Highlights**
+### Key Contributions
 
-* Developed business applications using **Microsoft Power Apps**
-* Automated workflows with **Power Automate**
+* Built enterprise applications using **Microsoft Power Apps**
+* Automated business workflows using **Power Automate**
 * Integrated applications with **SharePoint**
-* Built interactive dashboards using **Power BI**
-* Designed responsive and user-friendly enterprise interfaces
-* Worked in an Agile software development environment
+* Developed interactive dashboards using **Power BI**
+* Designed modern enterprise user interfaces
+* Worked with Agile software development practices
 * Collaborated with cross-functional teams to deliver business solutions
-
 
 ---
 
 # 🚀 About Me
 
-I'm a Full Stack Developer passionate about solving real-world problems through software.
+I'm a Full Stack Developer passionate about building software that solves real-world problems.
 
-I enjoy designing scalable backend systems, developing modern user interfaces, and exploring Artificial Intelligence to build smarter applications. I constantly seek opportunities to learn new technologies and create products that deliver meaningful impact.
+I enjoy developing scalable backend systems, modern web applications, cloud-based solutions, and AI-powered software.
 
-* 💼 Software Engineering Intern at **BNY**
-* 🌱 Exploring **AI Agents, LLMs, RAG, LangChain & Cloud Computing**
+* 💼 Former Software Engineering Intern at **BNY**
+* 🌱 Exploring **AI Agents, RAG, LLMs, LangChain & Cloud Computing**
 * 💻 Passionate about Full Stack Development
 * ☁️ Learning AWS & System Design
-* 🚀 Always building, always learning
+* 🚀 Always building. Always learning.
 
 ---
 
@@ -65,7 +73,7 @@ I enjoy designing scalable backend systems, developing modern user interfaces, a
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
 
-### Cloud & Dev Tools
+### Cloud & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman" />
@@ -82,73 +90,121 @@ I enjoy designing scalable backend systems, developing modern user interfaces, a
 
 ---
 
-# 🚀 Featured Projects
+# ⭐ Featured Projects
 
-## 🤖 AI & Intelligent Systems
+## 🚗 DriveBoost
 
-### 🔹 Query Bridge
+> **Smart Incentive Management Platform**
 
-An AI-powered Natural Language to SQL platform that enables users to retrieve database insights using plain English while automatically generating optimized SQL queries.
+A full-stack incentive management platform featuring dynamic slab management, sales tracking, admin dashboards, authentication, and automated incentive calculations.
 
-**Tech:** NLP • SQL • Backend • Database Systems
+**Tech Stack**
 
----
+`Next.js` • `React` • `Prisma` • `Supabase` • `PostgreSQL` • `Clerk` • `Tailwind CSS`
 
-### 🔹 Crime-KG *(Kerala Police Prototype)*
+🔗 **Repository:** https://github.com/adityaaman052/DriveBoost
 
-A knowledge graph platform developed during Kerala Police prototyping to organize and analyze interconnected crime-related information using graph databases.
-
-**Tech:** Neo4j • Graph Database • Backend
+🌐 **Live Demo:** *Add deployment link*
 
 ---
 
-## 🌐 Full Stack Applications
+## 🤖 Query Bridge
 
-### 🔹 Queueless
+> **Natural Language to SQL**
 
-A smart digital queue management system that allows users to book appointments, receive virtual tokens, and get notified when their turn is approaching, eliminating unnecessary waiting time.
+An AI-powered platform that converts natural language into SQL queries, enabling non-technical users to interact with databases effortlessly.
+
+**Tech Stack**
+
+`NLP` • `SQL` • `Python` • `MySQL`
+
+🔗 **Repository:** https://github.com/adityaaman052/Query-Bridge
+
+🌐 **Live Demo:** *Add deployment link if available*
+
+---
+
+## ☁️ GitHub Clone with AWS
+
+> **Cloud Repository Management**
+
+A lightweight GitHub-inspired repository platform supporting repository creation, AWS S3 storage, secure file uploads, and fundamental Git operations.
+
+**Tech Stack**
+
+`React` • `Node.js` • `Express` • `AWS S3`
+
+🔗 **Repository:** https://github.com/adityaaman052/github-clone
+
+🌐 **Live Demo:** *Add deployment link*
+
+---
+
+## 🎓 Campus Connector
+
+> **Student Collaboration Platform**
+
+A collaborative platform that enables students to share resources, participate in discussions, receive announcements, and leverage AI-powered assistance.
+
+**Tech Stack**
+
+`Firebase` • `JavaScript` • `Google AI API`
+
+🔗 **Repository:** https://github.com/adityaaman052/Campus-Connector
+
+🌐 **Live Demo:** *Add deployment link*
+
+---
+
+# 🚀 Other Projects
+
+### 🎟️ Queueless
+
+Smart appointment booking and virtual queue management platform.
 
 **Tech:** Next.js
 
----
-
-### 🔹 GitHub Clone with AWS
-
-A lightweight GitHub-inspired repository platform supporting repository creation, AWS S3 cloud storage, secure file management, and basic Git operations.
-
-**Tech:** React • Node.js • AWS S3
+🔗 Repository: https://github.com/adityaaman052/Queueless
 
 ---
 
-### 🔹 Campus Connector
+### 💰 AdiFinance
 
-A student collaboration platform featuring announcements, discussions, resource sharing, real-time notifications, and AI-powered assistance.
-
-**Tech:** Firebase • Google AI API
-
----
-
-### 🔹 AdiFinance
-
-A personal finance management application that helps users efficiently manage expenses, income, and budgets through an intuitive dashboard.
+Personal finance and expense management application.
 
 **Tech:** React • Node.js
 
+🔗 Repository: https://github.com/adityaaman052/AdiFinance
+
 ---
 
-### 🔹 AI Web Scraper
+### 🕸️ AI Web Scraper
 
-An AI-assisted web scraping application capable of extracting and processing structured information from websites.
+AI-powered web scraping application for extracting and processing structured web data.
 
 **Tech:** Python • Selenium
 
+🔗 Repository: https://github.com/adityaaman052/AI-Scraper
+
 ---
 
-## ☕ Java Projects
+### 👮 Crime-KG
 
-### 🔹 Peer-to-Peer Communication
+Knowledge Graph platform developed during Kerala Police prototyping.
 
-A Java Core implementation demonstrating peer-to-peer communication using sockets and networking concepts.
+**Tech:** Neo4j • Graph Database
+
+🔗 Repository: https://github.com/adityaaman052/Crime-Kg
+
+---
+
+### ☕ Peer-to-Peer Communication
+
+Java networking project demonstrating peer-to-peer communication using sockets.
+
+**Tech:** Java
+
+🔗 Repository: https://github.com/adityaaman052/Peer-to-Peer-Java-Core
 
 ---
 
@@ -156,9 +212,9 @@ A Java Core implementation demonstrating peer-to-peer communication using socket
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=adityaaman052&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityaaman052&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaaman052&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaaman052&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -168,20 +224,26 @@ A Java Core implementation demonstrating peer-to-peer communication using socket
 
 </p>
 
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaaman052&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
 ---
 
 # 🎯 Currently Learning
 
-* AI Agents
+* Artificial Intelligence & Machine Learning
+* AI Agents & LangChain
 * Retrieval-Augmented Generation (RAG)
 * AWS Cloud Services
 * System Design
 * Scalable Backend Architecture
-* Machine Learning
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
 
@@ -195,8 +257,8 @@ A Java Core implementation demonstrating peer-to-peer communication using socket
 
 <div align="center">
 
-### ⭐ "Building software that solves real-world problems."
+### 💡 *"Building software that solves real-world problems through code, cloud, and AI."*
 
-If you like my work, feel free to ⭐ star a repository or connect with me!
+⭐ If you find my projects interesting, consider starring a repository or connecting with me!
 
 </div>
