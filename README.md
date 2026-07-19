@@ -8,14 +8,6 @@ Software Engineer • Full Stack Developer • AI Enthusiast
 Building scalable applications, intelligent automation, and cloud-powered solutions.
 </p>
 
-<p align="center">
-<a href="https://github.com/adityaaman052">
-<img src="https://komarev.com/ghpvc/?username=adityaaman052&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
-<a href="https://github.com/adityaaman052?tab=followers">
-<img src="https://img.shields.io/github/followers/adityaaman052?label=Followers&style=social" />
-</a>
-</p>
 
 ---
 
@@ -104,7 +96,7 @@ A full-stack incentive management platform featuring dynamic slab management, sa
 
 🔗 **Repository:** https://github.com/adityaaman052/DriveBoost
 
-🌐 **Live Demo:** *Add deployment link*
+🌐 **Live Demo:** https://driveboost.vercel.app/
 
 ---
 
@@ -120,7 +112,6 @@ An AI-powered platform that converts natural language into SQL queries, enabling
 
 🔗 **Repository:** https://github.com/adityaaman052/Query-Bridge
 
-🌐 **Live Demo:** *Add deployment link if available*
 
 ---
 
@@ -136,7 +127,6 @@ A lightweight GitHub-inspired repository platform supporting repository creation
 
 🔗 **Repository:** https://github.com/adityaaman052/github-clone
 
-🌐 **Live Demo:** *Add deployment link*
 
 ---
 
@@ -152,7 +142,6 @@ A collaborative platform that enables students to share resources, participate i
 
 🔗 **Repository:** https://github.com/adityaaman052/Campus-Connector
 
-🌐 **Live Demo:** *Add deployment link*
 
 ---
 
@@ -175,6 +164,8 @@ Personal finance and expense management application.
 **Tech:** React • Node.js
 
 🔗 Repository: https://github.com/adityaaman052/AdiFinance
+🌐 **Live Demo:** https://adi-finance.vercel.app/
+
 
 ---
 
