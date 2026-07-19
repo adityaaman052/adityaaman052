@@ -5,22 +5,42 @@ Software Engineer • Full Stack Developer • AI Enthusiast
 </h3>
 
 <p align="center">
-Building scalable web applications, intelligent automation, and cloud-powered solutions.
+Building scalable applications, intelligent automation, and cloud-powered solutions.
 </p>
 
 ---
 
-## 🚀 About Me
+# 💼 Professional Experience
 
-I'm a Full Stack Developer passionate about designing applications that solve real-world problems through clean architecture and intuitive user experiences.
+### **Software Engineering Intern @ BNY**
 
-I enjoy transforming ideas into production-ready software using modern technologies while continuously exploring Artificial Intelligence, Machine Learning, and Cloud Computing.
+📍 Chennai, India
+
+Currently working as a **Software Engineering Intern** at **BNY**, where I contribute to enterprise-grade applications and gain hands-on experience in full-stack development, cloud technologies, automation, and modern software engineering practices while collaborating in an Agile environment.
+
+**Key Highlights**
+
+* Enterprise Application Development
+* Power Apps & Power Automate
+* SharePoint Integration
+* Power BI Dashboards
+* Workflow Automation
+* UI/UX Development
+* Agile Development Practices
+
+---
+
+# 🚀 About Me
+
+I'm a Full Stack Developer passionate about solving real-world problems through software.
+
+I enjoy designing scalable backend systems, developing modern user interfaces, and exploring Artificial Intelligence to build smarter applications. I constantly seek opportunities to learn new technologies and create products that deliver meaningful impact.
 
 * 💼 Software Engineering Intern at **BNY**
-* 🌱 Exploring **AI Agents, LangChain, RAG, LLMs & Cloud Technologies**
-* 💻 Building scalable Full Stack Applications
-* ☁️ Learning AWS Cloud & System Design
-* 🎯 Goal: Building software that creates real-world impact
+* 🌱 Exploring **AI Agents, LLMs, RAG, LangChain & Cloud Computing**
+* 💻 Passionate about Full Stack Development
+* ☁️ Learning AWS & System Design
+* 🚀 Always building, always learning
 
 ---
 
@@ -44,7 +64,7 @@ I enjoy transforming ideas into production-ready software using modern technolog
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
 
-### Cloud & Tools
+### Cloud & Dev Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman" />
@@ -54,8 +74,9 @@ I enjoy transforming ideas into production-ready software using modern technolog
 
 * LangChain
 * Gemini API
-* Streamlit
+* Python
 * Selenium
+* Streamlit
 * Prompt Engineering
 
 ---
@@ -66,15 +87,15 @@ I enjoy transforming ideas into production-ready software using modern technolog
 
 ### 🔹 Query Bridge
 
-Natural Language → SQL platform that enables users to interact with databases using plain English.
+An AI-powered Natural Language to SQL platform that enables users to retrieve database insights using plain English while automatically generating optimized SQL queries.
 
 **Tech:** NLP • SQL • Backend • Database Systems
 
 ---
 
-### 🔹 Crime-KG (Kerala Police Prototype)
+### 🔹 Crime-KG *(Kerala Police Prototype)*
 
-Knowledge Graph powered investigation platform developed during Kerala Police prototyping.
+A knowledge graph platform developed during Kerala Police prototyping to organize and analyze interconnected crime-related information using graph databases.
 
 **Tech:** Neo4j • Graph Database • Backend
 
@@ -82,55 +103,55 @@ Knowledge Graph powered investigation platform developed during Kerala Police pr
 
 ## 🌐 Full Stack Applications
 
-### 🔹 Campus Connector
-
-A collaborative student platform featuring real-time discussions, announcements, AI integration and resource sharing.
-
-**Tech:** Firebase • Google AI • JavaScript
-
----
-
-### 🔹 AdiFinance
-
-Personal finance management application for tracking expenses, income and budgets.
-
-**Tech:** React • Node.js • MongoDB
-
----
-
 ### 🔹 Queueless
 
-Smart appointment booking and digital queue management platform that eliminates physical waiting by providing virtual tokens and real-time notifications.
+A smart digital queue management system that allows users to book appointments, receive virtual tokens, and get notified when their turn is approaching, eliminating unnecessary waiting time.
 
-**Tech:** Next.js • Queue Management
+**Tech:** Next.js
 
 ---
 
 ### 🔹 GitHub Clone with AWS
 
-A lightweight GitHub-inspired repository platform supporting repository creation, cloud storage using AWS S3 and basic Git operations.
+A lightweight GitHub-inspired repository platform supporting repository creation, AWS S3 cloud storage, secure file management, and basic Git operations.
 
 **Tech:** React • Node.js • AWS S3
 
 ---
 
-### 🔹 AI Web Scraper
+### 🔹 Campus Connector
 
-AI-powered intelligent web scraping application for extracting, organizing and processing web data.
+A student collaboration platform featuring announcements, discussions, resource sharing, real-time notifications, and AI-powered assistance.
 
-**Tech:** Python • Selenium • AI
+**Tech:** Firebase • Google AI API
 
 ---
 
-## ☕ Java Project
+### 🔹 AdiFinance
+
+A personal finance management application that helps users efficiently manage expenses, income, and budgets through an intuitive dashboard.
+
+**Tech:** React • Node.js
+
+---
+
+### 🔹 AI Web Scraper
+
+An AI-assisted web scraping application capable of extracting and processing structured information from websites.
+
+**Tech:** Python • Selenium
+
+---
+
+## ☕ Java Projects
 
 ### 🔹 Peer-to-Peer Communication
 
-Implementation of peer-to-peer communication using Java Core concepts and socket programming.
+A Java Core implementation demonstrating peer-to-peer communication using sockets and networking concepts.
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -148,14 +169,14 @@ Implementation of peer-to-peer communication using Java Core concepts and socket
 
 ---
 
-# 🎯 Currently Exploring
+# 🎯 Currently Learning
 
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
 * AI Agents
-* Cloud Architecture
+* Retrieval-Augmented Generation (RAG)
+* AWS Cloud Services
 * System Design
-* Scalable Backend Systems
+* Scalable Backend Architecture
+* Machine Learning
 
 ---
 
@@ -165,7 +186,7 @@ Implementation of peer-to-peer communication using Java Core concepts and socket
 
 💼 **LinkedIn:** https://linkedin.com/in/your-profile
 
-🌐 **Portfolio:** Add your portfolio here
+🌐 **Portfolio:** Coming Soon...
 
 💻 **GitHub:** https://github.com/adityaaman052
 
@@ -173,10 +194,8 @@ Implementation of peer-to-peer communication using Java Core concepts and socket
 
 <div align="center">
 
-### ⭐ *"Code with purpose. Build with impact."*
+### ⭐ "Building software that solves real-world problems."
 
-Thanks for visiting my profile!
-
-If you like my work, consider ⭐ starring a repository.
+If you like my work, feel free to ⭐ star a repository or connect with me!
 
 </div>
