@@ -12,21 +12,22 @@ Building scalable applications, intelligent automation, and cloud-powered soluti
 
 # 💼 Professional Experience
 
-### **Software Engineering Intern @ BNY**
+### **Software Engineering Intern | BNY**
 
-📍 Chennai, India
+**📍 Chennai, India | May 2026 – July 2026**
 
-Currently working as a **Software Engineering Intern** at **BNY**, where I contribute to enterprise-grade applications and gain hands-on experience in full-stack development, cloud technologies, automation, and modern software engineering practices while collaborating in an Agile environment.
+Completed a two-month Software Engineering Internship at **BNY**, where I contributed to enterprise application development and workflow automation. During the internship, I collaborated in an Agile environment and gained practical experience building business applications and working with modern enterprise technologies.
 
 **Key Highlights**
 
-* Enterprise Application Development
-* Power Apps & Power Automate
-* SharePoint Integration
-* Power BI Dashboards
-* Workflow Automation
-* UI/UX Development
-* Agile Development Practices
+* Developed business applications using **Microsoft Power Apps**
+* Automated workflows with **Power Automate**
+* Integrated applications with **SharePoint**
+* Built interactive dashboards using **Power BI**
+* Designed responsive and user-friendly enterprise interfaces
+* Worked in an Agile software development environment
+* Collaborated with cross-functional teams to deliver business solutions
+
 
 ---
 
