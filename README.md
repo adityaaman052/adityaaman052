@@ -164,6 +164,7 @@ Personal finance and expense management application.
 **Tech:** React • Node.js
 
 🔗 Repository: https://github.com/adityaaman052/AdiFinance
+
 🌐 **Live Demo:** https://adi-finance.vercel.app/
 
 
@@ -215,11 +216,7 @@ Java networking project demonstrating peer-to-peer communication using sockets.
 
 </p>
 
-<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaaman052&theme=tokyo-night&hide_border=true"/>
-
-</p>
 
 ---
 
