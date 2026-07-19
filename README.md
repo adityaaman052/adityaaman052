@@ -1,68 +1,182 @@
-# 👋 Hi, I'm Aditya Aman  
+# <h1 align="center">Hi 👋, I'm Aditya Aman</h1>
 
-I'm a **Full Stack Developer** passionate about building intuitive, efficient, and modern web experiences.  
-I love working with **React, Next.js, Node.js**, and I'm constantly exploring the exciting world of **AI & ML**.
+<h3 align="center">
+Software Engineer • Full Stack Developer • AI Enthusiast
+</h3>
 
----
-
-## 🚀 About Me
-- 🔭 I build modern full-stack applications  
-- 🌱 Currently diving deeper into **AI/ML integrations**  
-- 🔌 I enjoy connecting backend logic with clean UI  
-- ⚡ Always learning, always experimenting  
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend:**  
-React • Next.js • JavaScript • Tailwind CSS  
-
-**Backend:**  
-Node.js • Express • PHP  
-
-**Databases:**  
-PostgreSQL • MongoDB • MySQL • Neo4j  
-
-**AI & Tools:**  
-Python • LangChain • Gemini API • Streamlit • Selenium  
-
-**Other:**  
-Git • Docker • REST APIs • VS Code  
-
----
-
-## 📂 Featured Projects
-
-### 📌 Database / Backend Projects
-- 🔹 **[Query Bridge](https://github.com/adityaaman052/Query-Bridge)**  
-- 🔹 **[(Crime-Kg)(Kerala Police Prototyping Project)](https://github.com/adityaaman052/Crime-Kg)**  
-
-
-### 💻 Web Development Projects
-- 🔹 **[Finance Manager App](https://github.com/adityaaman052/AdiFinance)**  
-- 🔹 **[(Campus Connector)](https://github.com/adityaaman052/Campus-Connector)**  
-- 🔹 **[AI-Powered Web Scraper](https://github.com/adityaaman052/AI-Scraper)**  
-
-### 🤖 Java Core Project
-- 🔹 **[Peer to Peer connection using concepts of Java Core ](https://github.com/adityaaman052/Peer-to-Peer-Java-Core-** 
- 
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=adityaaman052&show_icons=true&theme=react" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaaman052&layout=compact&theme=react" />
+Building scalable web applications, intelligent automation, and cloud-powered solutions.
 </p>
 
 ---
 
-## 🌐 Connect With Me
-📧 Email: *add your email here*  
-🔗 LinkedIn: *add your LinkedIn link here*  
-💻 GitHub: [github.com/adityaaman052](https://github.com/adityaaman052)
+## 🚀 About Me
+
+I'm a Full Stack Developer passionate about designing applications that solve real-world problems through clean architecture and intuitive user experiences.
+
+I enjoy transforming ideas into production-ready software using modern technologies while continuously exploring Artificial Intelligence, Machine Learning, and Cloud Computing.
+
+* 💼 Software Engineering Intern at **BNY**
+* 🌱 Exploring **AI Agents, LangChain, RAG, LLMs & Cloud Technologies**
+* 💻 Building scalable Full Stack Applications
+* ☁️ Learning AWS Cloud & System Design
+* 🎯 Goal: Building software that creates real-world impact
 
 ---
 
-⭐ *Thanks for stopping by! Feel free to explore my projects or connect for collaborations.*
+# 💻 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+</p>
+
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman" />
+</p>
+
+### AI & Automation
+
+* LangChain
+* Gemini API
+* Streamlit
+* Selenium
+* Prompt Engineering
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI & Intelligent Systems
+
+### 🔹 Query Bridge
+
+Natural Language → SQL platform that enables users to interact with databases using plain English.
+
+**Tech:** NLP • SQL • Backend • Database Systems
+
+---
+
+### 🔹 Crime-KG (Kerala Police Prototype)
+
+Knowledge Graph powered investigation platform developed during Kerala Police prototyping.
+
+**Tech:** Neo4j • Graph Database • Backend
+
+---
+
+## 🌐 Full Stack Applications
+
+### 🔹 Campus Connector
+
+A collaborative student platform featuring real-time discussions, announcements, AI integration and resource sharing.
+
+**Tech:** Firebase • Google AI • JavaScript
+
+---
+
+### 🔹 AdiFinance
+
+Personal finance management application for tracking expenses, income and budgets.
+
+**Tech:** React • Node.js • MongoDB
+
+---
+
+### 🔹 Queueless
+
+Smart appointment booking and digital queue management platform that eliminates physical waiting by providing virtual tokens and real-time notifications.
+
+**Tech:** Next.js • Queue Management
+
+---
+
+### 🔹 GitHub Clone with AWS
+
+A lightweight GitHub-inspired repository platform supporting repository creation, cloud storage using AWS S3 and basic Git operations.
+
+**Tech:** React • Node.js • AWS S3
+
+---
+
+### 🔹 AI Web Scraper
+
+AI-powered intelligent web scraping application for extracting, organizing and processing web data.
+
+**Tech:** Python • Selenium • AI
+
+---
+
+## ☕ Java Project
+
+### 🔹 Peer-to-Peer Communication
+
+Implementation of peer-to-peer communication using Java Core concepts and socket programming.
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=adityaaman052&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaaman052&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=adityaaman052&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Currently Exploring
+
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* AI Agents
+* Cloud Architecture
+* System Design
+* Scalable Backend Systems
+
+---
+
+# 🤝 Let's Connect
+
+📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
+
+💼 **LinkedIn:** https://linkedin.com/in/your-profile
+
+🌐 **Portfolio:** Add your portfolio here
+
+💻 **GitHub:** https://github.com/adityaaman052
+
+---
+
+<div align="center">
+
+### ⭐ *"Code with purpose. Build with impact."*
+
+Thanks for visiting my profile!
+
+If you like my work, consider ⭐ starring a repository.
+
+</div>
